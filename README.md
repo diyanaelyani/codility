@@ -1,2 +1,2 @@
 # codility
-Codility Lessons
+Codility Lessons Solution in Javascript
